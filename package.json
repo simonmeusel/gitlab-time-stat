@@ -1,6 +1,6 @@
 {
   "name": "gitlab-time-stat",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "See the sum of the time spennd on all your issues",
   "main": "lib/index.js",
   "scripts": {
