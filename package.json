@@ -1,0 +1,22 @@
+{
+  "name": "gitlab-time-stat",
+  "version": "1.0.0",
+  "description": "See the sum of the time spennd on all your issues",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simonmeusel/gitlab-time-stat.git"
+  },
+  "author": "Simon Meusel",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/simonmeusel/gitlab-time-stat/issues"
+  },
+  "homepage": "https://github.com/simonmeusel/gitlab-time-stat#readme",
+  "dependencies": {
+    "axios": "^0.16.1"
+  }
+}
