@@ -9,7 +9,7 @@ Install the module globally:
 $ npm install -g gitlab-time-stat
 ```
 
-Then get yourself an access token with api permissions at [gitlab](https://gitlab.com/profile/personal_access_tokens)
+Then get yourself an access token with api permissions at [gitlab.com](https://gitlab.com/profile/personal_access_tokens).
 Set it as an environment variable:
 
 ```
