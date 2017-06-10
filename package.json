@@ -18,5 +18,9 @@
   "homepage": "https://github.com/simonmeusel/gitlab-time-stat#readme",
   "dependencies": {
     "axios": "^0.16.1"
-  }
+  },
+  "bin": {
+    "gitlab-time-stat": "lib/cli.js"
+  },
+  "preferGlobal": true
 }
