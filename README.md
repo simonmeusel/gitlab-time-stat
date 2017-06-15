@@ -20,6 +20,20 @@ $ export GITLAB_TIME_STAT_TOKEN=xxxxxxxxxxxxxxxxxx_x
 
 ## Usage
 
+### Using namespaced path
+
+```
+$ gitlab-time-stat projecttime  <path> [options]
+```
+
+Example:
+
+```
+$ gitlab-time-stat projecttime  simonmeusel/git-test '{"per_page": 100}'
+```
+
+### Using id
+
 Get your Project's id with:
 
 ```
