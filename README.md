@@ -20,7 +20,7 @@ $ export GITLAB_TIME_STAT_TOKEN=xxxxxxxxxxxxxxxxxx_x
 
 ## Usage
 
-### Using namespaced path
+### Using namespaced path (recommended)
 
 ```
 $ gitlab-time-stat projecttime  <path> [options]
